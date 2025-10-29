@@ -53,12 +53,18 @@ export default function Home() {
 
       {/** Blog posts */}
       <section className="gap-12">
-        <BlogPostCard />
-        <BlogPostCard />
-        <BlogPostCard />
-        <BlogPostCard />
-        <BlogPostCard />
-        <BlogPostCard />
+        <BlogPostCard
+          date="2025-10-29"
+          title="The immune system - A different point of view"
+          explanation="The immune system is a network of cells, tissues and organs that protects the body against viruses and infections..."
+          blogpostname="post1"
+        />
+        <BlogPostCard
+          date="2025-10-29"
+          title="The body as one unit"
+          explanation="Not treating the body as one unit is the biggest blunder in western medicine history..."
+          blogpostname="post2"
+        />
       </section>
     </div>
   )

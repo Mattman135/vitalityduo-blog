@@ -1,15 +1,16 @@
-const BlogPostCard = () => {
+import Link from "next/link"
+
+const BlogPostCard = ({ date, title, explanation, blogpostname }) => {
   return (
-    <div className="card bg-base-100 shadow-sm w-full mb-12">
+    <div className="card bg-base-100 shadow-sm w-full mb-12 min-w-2xs">
       <div className="card-body items-center text-center">
-        <p>Date</p>
-        <h2 className="card-title">Title</h2>
-        <p>
-          A card component has a figure, a body part, and inside body there are
-          title and actions parts
-        </p>
+        <p>{date}</p>
+        <h2 className="card-title">{title}</h2>
+        <p>{explanation}</p>
         <div className="card-actions">
-          <button className="btn">Read more</button>
+          <Link href={`/blogposts/${blogpostname}`} className="btn">
+            Read more
+          </Link>
         </div>
       </div>
     </div>
