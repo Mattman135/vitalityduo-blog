@@ -14,17 +14,17 @@ export default function post1() {
         is broken and it can only be fixed by certain medicines. How can it be
         broken when all it does is try to help you? Research has shown that
         certain foods can trigger an immune response (källa). Is your immune
-        system really broken because you can’t tolerate a certain food when
-        another person can tolerate that? Who has decided that if you can’t
-        tolerate a certain food then you are sick? Aren’t we all different and
-        some people can tolerate foods that you can’t because we are different.
-        Not because you are sick. I have faith in nature's ability to heal
-        itself and my job is to give it the right conditions. Conditions such as
-        what food we give our body, how we manage stress, our workout schedules,
+        system really broken because you cant tolerate a certain food when
+        another person can tolerate that? Who has decided that if you cant
+        tolerate a certain food then you are sick? Arent we all different and
+        some people can tolerate foods that you cant because we are different.
+        Not because you are sick. I have faith in natures ability to heal itself
+        and my job is to give it the right conditions. Conditions such as what
+        food we give our body, how we manage stress, our workout schedules,
         sleep patterns, spiritual rituals and so forth. Our input to the body
         decides how functional our immune system will be. But it is never
-        broken. I guess I don’t like the idea of calling something as fantastic
-        as the immune system, broken. If there is a God, do you think he didn’t
+        broken. I guess I dont like the idea of calling something as fantastic
+        as the immune system, broken. If there is a God, do you think he didnt
         have the skills to create a non-broken human? No, it is our job to
         create the right conditions for our body to thrive. Sure, we (humans)
         probably have different sensitivities, where some people tolerate more
