@@ -34,6 +34,7 @@ export default function post1() {
         responsibility to make me un-sick. Whatever it takes.
       </p>
       <p>References Immune system - Wikipedia</p>
+      <p>Writer: Mattis Hallberg</p>
     </main>
   )
 }

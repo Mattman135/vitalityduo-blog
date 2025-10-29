@@ -39,6 +39,7 @@ export default function post2() {
         expert on the whole body?
       </p>
       <p>References Immune system - Wikipedia</p>
+      <p>Writer: Mattis Hallberg</p>
     </main>
   )
 }
